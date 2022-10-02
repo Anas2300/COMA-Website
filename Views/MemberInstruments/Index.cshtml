@@ -1,0 +1,57 @@
+﻿@model IEnumerable<MusicianApp.Models.PersonInstrument>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index- Member's instruments</h2>
+<p>@ViewData["memberInstrumentMessage"]</p>
+
+@if ((string)TempData["stopOrder"] != "Yes")
+{
+    <a asp-action="Index" asp-route-ob="name">Order by name</a><br />
+    <a asp-action="Index" asp-route-ob="instrument">Order by instrument</a>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.memberName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.instrumentName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Index"
+                       asp-route-userQueryFN="@item.memberName"
+                       asp-route-userQueryLN="@item.lastName">
+                        @Html.DisplayFor(modelItem => item.memberName)
+                    </a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.lastName)
+                </td>
+                <td>
+                    <a asp-action="Index"
+                       asp-route-userQueryInstrument="@item.instrumentName">
+                        @Html.DisplayFor(modelItem => item.instrumentName)
+                    </a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.PersonInstrumentId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

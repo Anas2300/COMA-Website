@@ -1,0 +1,38 @@
+﻿@model MusicianApp.Models.Person
+
+@{
+    ViewData["Title"] = "Login Manager";
+}
+
+<h2>Login</h2>
+<h4>@ViewData["loginErrorMessage"]</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" type="password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-default" />
+            </div>
+            <a asp-controller="Login" asp-action="ForgetPassword">Forget Password?</a>
+        </form>
+    </div>
+    <h4>Don't have an account?</h4>
+    <a asp-controller="Members" asp-action="Create">Create new account</a>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

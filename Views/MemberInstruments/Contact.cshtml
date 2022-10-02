@@ -1,0 +1,38 @@
+﻿@model MusicianApp.Models.Person
+
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h2> @Html.DisplayFor(model => model.FirstName)'s Contact</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AssociationDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AssociationDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        
+    </dl>
+</div>

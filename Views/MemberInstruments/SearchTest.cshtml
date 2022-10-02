@@ -1,0 +1,65 @@
+﻿@model MusicianApp.Models.PersonInstrument
+@{
+    ViewData["Title"] = "SearchTest";
+}
+
+<h2>Musicians</h2>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SearchTest">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="memberName" class="control-label"></label>
+                <input asp-for="memberName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="lastName" class="control-label"></label>
+                <input asp-for="lastName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="instrumentName" class="control-label"></label>
+                <input asp-for="instrumentName" asp-items="ViewBag.instrumentName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+<h4>Results: </h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                First Name
+            </th>
+            <th>
+                Last Name
+            </th>
+            <th>
+                Instrument
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.list)
+        {
+        <tr>
+            <td>
+                @item.memberName
+            </td>
+            <td>
+                @item.lastName
+            </td>
+            <td>
+                @item.instrumentName
+            </td>
+            <td>
+                <a asp-action="Contact" asp-route-last="@item.lastName" asp-route-name="@item.memberName">Contact</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
