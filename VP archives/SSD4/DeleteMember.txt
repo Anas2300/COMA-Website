@@ -1,0 +1,48 @@
+' user forgets password
+@startuml
+autonumber
+
+actor Administrator
+boundary editForm
+control Controller
+entity memberObject
+database Database
+title Delete Member
+
+Administrator -> editForm: listOfMembers
+editForm -> Controller: Send request to controller
+activate Controller
+
+
+   Controller -> Database :getMemberObjectList(memberObject)
+   Database-->memberObject : memberObject
+   activate memberObject
+   memberObject --> Controller: memberList
+   deactivate memberObject   
+
+   Controller --> editForm :Members
+   editForm-->Administrator: DisplayList
+   Administrator -> editForm: editMember(memberId)
+   editForm -> Controller: Send request to controller
+    
+   Controller -> Database: memberID
+    activate memberObject
+   Database -->memberObject:memberDetails
+   memberObject --> Controller: memberDetailsObject
+   Controller-->editForm: memberDetailsObject
+
+   editForm-->Administrator: displaysMembersDetails
+
+   Administrator -> editForm: deleteMember
+   editForm -> Controller: Send request to controller
+
+   Controller -> Database: deleteMember(ID)
+   deactivate memberObject
+   Database --> Controller: Member has been deleted 
+   Controller --> editForm: deleteMessage
+   deactivate Controller
+   editForm-->Administrator: Member has been delete sucessfully
+
+
+
+@enduml

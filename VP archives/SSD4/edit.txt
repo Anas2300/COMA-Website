@@ -1,0 +1,31 @@
+' EditForm
+@startuml
+autonumber
+
+actor Member
+boundary EditForm
+control Controller
+entity memberObject
+database Database
+title EditForm
+
+Member -> EditForm: User wants to EditForm profile
+EditForm -> Controller: Send request to controller
+activate Controller
+
+Controller -> Database: getMemberObject
+Database--> memberObject:member
+activate memberObject
+memberObject --> Controller: member
+Controller -> memberObject: update member
+memberObject -> Database: update member
+
+Database --> memberObject: member updated
+memberObject --> Controller: member updated
+Controller --> EditForm: member updated
+EditForm --> Member: member updated
+ 
+     deactivate memberObject 
+     deactivate Controller
+
+@enduml

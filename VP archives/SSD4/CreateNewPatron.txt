@@ -1,0 +1,63 @@
+' librian creates a new patron record
+@startuml
+autonumber
+
+actor librarian
+boundary createPatronForm
+control PatronController
+entity employee
+entity student
+entity visitor
+entity accounting
+database CITL
+database HR
+database SIS
+title Create new Patron account
+
+librarian -> createPatronForm: CreatePatron(patronType, id)
+note right: "identification is studentId,\nemployeeId, alumniId or null (visitor)"
+createPatronForm -> PatronController: CreatePatron(patronType, Id)
+activate PatronController
+
+alt isEmployee
+   PatronController -> HR :GetEmployee(employeeId)
+   HR-->employee : aE:Employee
+   activate employee
+   employee --> PatronController: aE
+else isStudent
+   PatronController -> SIS :GetStudent(studentId)
+   SIS-->student: aS:Student
+   activate student
+   student--> PatronController: aS
+end
+alt notVisitor
+   PatronController --> createPatronForm: patron Information
+   deactivate PatronController
+   deactivate student
+   deactivate employee
+   createPatronForm --> librarian: patron information
+else isVisitor
+   PatronController --> createPatronForm: empty
+   deactivate PatronController
+   createPatronForm --> librarian: empty
+   librarian -> createPatronForm: CreateVisitor(visitorInformation)
+   createPatronForm -> PatronController : CreateVisitor(visitorInformation)
+   activate PatronController
+   PatronController -> visitor : aV:visitor
+   activate visitor
+   visitor -> CITL : CreateVisitor(aV)
+   CITL --> PatronController: PrintLibraryCode(aV)
+
+   ref over PatronController : PayAccount(aV.visitorId)
+
+   PatronController --> createPatronForm: [AccountBalanceZero]PrintVisitorCard(aV)
+   deactivate PatronController
+   deactivate visitor
+   visitorCard --> librarian
+end
+
+
+
+
+
+@enduml

@@ -1,0 +1,101 @@
+' Student search/book a resort's room
+@startuml
+autonumber
+
+actor student
+boundary searchResortForm
+boundary bookForm
+boundary paymentForm
+control SBRUcontroller
+entity resortRooms
+entity resortReservation
+entity studentIdentity
+entity accounting
+database sbruResorts
+database resortGuests
+database reservationResort
+
+title Book a room
+
+loop research a resort's room
+student -> searchResortForm: Search a resort's room(features, dates)
+note right:"filtering/sort: Price, location, avaliation\n check-in and check-out dates"
+
+searchResortForm->SBRUcontroller: Search resort's room(features, dates)
+activate SBRUcontroller
+
+SBRUcontroller->sbruResorts: GetResortRooms(features,dates)
+
+sbruResorts-->resortRooms: objectR:RoomsList
+activate resortRooms
+
+resortRooms-->SBRUcontroller:aR
+
+SBRUcontroller-->searchResortForm: List of Rooms
+note left:"List of rooms contains Price, rooms name/type\nlocation"
+
+searchResortForm-->student: List of Rooms
+
+alt make a new search
+student -> searchResortForm: Search a resort's room(features, dates)
+note right:"Return Step 1"
+end alt
+
+deactivate resortRooms
+deactivate SBRUcontroller
+
+end loop research a resort's room
+
+student -> bookForm: Book Room(room id, resort id)
+note right:"info: RoomId,ResortId,sName,\nsAge, sPhone, checkin/out"
+
+bookForm -> SBRUcontroller :(room id, resortId) 
+activate SBRUcontroller
+
+SBRUcontroller-> reservationResort: SetRoom(room id, resortId) 
+
+reservationResort--> resortReservation: :objectRoom
+activate resortReservation
+
+resortReservation-->SBRUcontroller::objectRoom
+
+
+
+SBRUcontroller-> studentIdentity: objectS (student):CreateStudent(info)
+activate studentIdentity
+
+studentIdentity-> resortGuests: objectS:CreateStudent(info)
+
+resortGuests--> SBRUcontroller: objectS
+'deactivate studentIdentity
+
+SBRUcontroller--> paymentForm::aS and :objectRoom
+
+paymentForm--> student: fill payment form
+
+student->paymentForm: (paymentInfo,objectS and :objectRoom)
+note right:"paymentInfo: credit/debit card info, payments methods"
+
+paymentForm->SBRUcontroller: (paymentInfo, objectS and :objectRoom)
+
+SBRUcontroller->accounting: createPayment
+activate accounting
+
+accounting-->SBRUcontroller: objectA (new account)
+
+ref over SBRUcontroller : VerifyPayment(objectS,objectRoom,objectA)
+
+SBRUcontroller->reservationResort: CreateReservation(objectS,objectRoom,objectA)
+
+reservationResort-->SBRUcontroller: Reservation created
+
+deactivate accounting
+deactivate resortReservation
+deactivate studentIdentity
+
+SBRUcontroller-->paymentForm: Reservation created
+
+paymentForm-->student: Reservation created Successfully
+
+
+@enduml

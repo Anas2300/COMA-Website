@@ -1,0 +1,50 @@
+' user forgets password
+@startuml
+autonumber
+
+actor Administrator
+boundary membersList
+control Controller
+entity memberObjectList
+database Database
+title Change Payment Status
+
+Administrator -> membersList: displayMembers
+membersList -> Controller: Send request to controller
+activate Controller
+
+
+   Controller -> Database :getmemberObjectList(memberObjectListId)
+   Database-->memberObjectList : aE:memberObjectList
+   activate memberObjectList
+   memberObjectList --> Controller: membersList
+
+   Controller --> membersList :Members
+   membersList-->Administrator: Display List
+   
+   Administrator -> membersList: editMember(memberId)
+   membersList -> Controller: Send request to controller
+    
+   Controller -> Database: memberID
+  
+   Database -->memberObjectList:memberDetails
+   memberObjectList --> Controller: memberDetailsObject
+   Controller-->membersList: memberDetailsObject
+
+   membersList-->Administrator: displaysMembersDetails
+
+   Administrator -> membersList: changePaymentStatus
+   note right: The payment status is a checkbox\nthat says due or not due
+   membersList -> Controller: Send request to controller
+   Controller -> Database: updatePaymentStatus(ID)
+   
+   Database --> Controller: Payment Status Updated
+   Controller --> membersList: updateMessage
+   deactivate Controller
+   membersList-->Administrator: payment status has been changed
+  
+ deactivate Controller
+  
+   
+
+@enduml

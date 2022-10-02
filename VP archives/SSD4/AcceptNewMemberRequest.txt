@@ -1,0 +1,37 @@
+' user forgets password
+@startuml
+autonumber
+
+actor Administrator
+boundary newMembersRequestList
+control Controller
+entity memberObjectList
+database Database
+title Accept a new member request
+
+Administrator -> newMembersRequestList: AccessRequests
+newMembersRequestList -> Controller: Send request to controller
+activate Controller
+
+
+   Controller -> Database :getMemberObjectList(memberObjectListId)
+   Database-->memberObjectList : aE:memberObjectList
+   note left: list of unanalyzed members request 
+   activate memberObjectList
+   memberObjectList --> Controller: membersList
+
+   Controller --> newMembersRequestList :Members
+   newMembersRequestList-->Administrator: Display List
+   Administrator -> newMembersRequestList: Administrator's responses
+   newMembersRequestList -> Controller: Send response to controller
+
+   Controller -> Database: Update parameters
+   note left: If the members has been accepted or not,\nit will be changed on the object
+   deactivate memberObjectList
+   Controller -->newMembersRequestList: Request message
+ deactivate Controller
+   newMembersRequestList --> Administrator: The request have been changed
+  
+   
+
+@enduml
