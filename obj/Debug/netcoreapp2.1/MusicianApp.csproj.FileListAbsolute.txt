@@ -1,0 +1,509 @@
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.deps.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.dev.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csprojAssemblyReference.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CoreCompileInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfoInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.input.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.output.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorCoreGenerate.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CopyComplete
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexInactive.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexRequests.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexBalance.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_loginPage.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.deps.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.dev.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csprojAssemblyReference.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CoreCompileInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfoInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.input.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.output.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorCoreGenerate.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexBalance.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexInactive.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexRequests.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_loginPage.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CopyComplete
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.2.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.deps.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.dev.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csprojAssemblyReference.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CoreCompileInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfoInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.input.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.output.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorCoreGenerate.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexBalance.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexInactive.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexRequests.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_loginPage.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CopyComplete
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.deps.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.dev.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csprojAssemblyReference.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CoreCompileInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfoInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.input.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.output.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorCoreGenerate.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexBalance.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexInactive.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexRequests.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_loginPage.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CopyComplete
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.deps.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.dev.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csprojAssemblyReference.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CoreCompileInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfoInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.input.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.output.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorCoreGenerate.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexBalance.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexInactive.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexRequests.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_loginPage.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CopyComplete
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\ForgetPassword.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.3 - Metadata\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\RedifinePassword.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.deps.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.dev.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csprojAssemblyReference.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CoreCompileInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfoInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.input.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.output.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorCoreGenerate.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\ForgetPassword.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexBalance.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexInactive.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexRequests.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_loginPage.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CopyComplete
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\GetRestoreEmail.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.deps.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.dev.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csprojAssemblyReference.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CoreCompileInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfoInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.input.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.output.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorCoreGenerate.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\ForgetPassword.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\GetRestoreEmail.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexBalance.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexInactive.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexRequests.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_loginPage.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CopyComplete
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.0 New UI\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.deps.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.dev.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csprojAssemblyReference.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CoreCompileInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfoInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.input.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.output.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorCoreGenerate.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\ForgetPassword.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\GetRestoreEmail.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexBalance.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexInactive.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexRequests.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_loginPage.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CopyComplete
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Contact.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\EditAccount.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.1 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\SearchTest.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.deps.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.runtimeconfig.dev.json
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csprojAssemblyReference.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CoreCompileInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfoInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.AssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.input.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.TagHelpers.output.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorCoreGenerate.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\ForgetPassword.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\GetRestoreEmail.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Contact.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\MemberInstruments\SearchTest.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Create.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Delete.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Details.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Edit.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\EditAccount.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\Index.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexBalance.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexInactive.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Members\IndexRequests.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_loginPage.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.RazorTargetAssemblyInfo.cs
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.Views.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.csproj.CopyComplete
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\MusicianApp\obj\Debug\netcoreapp2.1\MusicianApp.pdb

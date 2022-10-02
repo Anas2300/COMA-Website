@@ -1,0 +1,18 @@
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.2\OntarioMusicians\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v1.3.4 - ForgetPassword\OntarioMusicians\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\romagnaE\Documents\Computer Program\Fourth Semester\Capstone Project\Project\v2.2 Unit Test\OntarioMusicians\ClassLibrary\obj\Debug\ClassLibrary.pdb
